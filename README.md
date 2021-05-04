@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya-Pundir
-- 👀 I’m interested in Java, HTML, CSS, JavaScript and python
+- 👀 I’m interested in Java, HTML, CSS, JavaScript, React and python
 - 🌱 I’m currently learning some more advanced web and android development
 - 💞️ I’m looking to collaborate on some web and android development projects
 - 📫 To reach me you can call me on +91 8979698575
